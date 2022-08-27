@@ -18,6 +18,10 @@ from PYIM, it can use different licence.
 感谢 [[https://github.com/tumashu/pyim][Emacs PYIM]] 给该项目以激励和启发。但由于 cl-pyim 并未使用任何来自 PYIM 的代
 码，该项目可以使用和 PYIM 不同的协议。
 
+Thanks to [[https://github.com/McCLIM/McCLIM][McCLIM]]
+
+感谢 [[https://github.com/McCLIM/McCLIM][McCLIM]]
+
 ** Author
 
 + Rosario S.E. (rosa@rosa.ink)
