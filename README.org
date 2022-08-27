@@ -1,0 +1,31 @@
+* Cl-Pyim  - in development
+
+Pinyin input method for CLIM. Developing.
+
+为 CLIM 设计的拼音输入法。正在开发中。
+
+[[file:demo.gif]]
+
+To run the test frame, Edit =test-frame.lisp= for dictionary path and Chinese
+font path. Then load the system, eval =(cl-pyim:run-test-frame)=
+
+要运行该测试界面，请先编辑 =test-frame.lisp= ，设置好其中的词典路径和中文字体，
+之后运行 =(cl-pyim:run-test-frame)=
+
+Thanks to [[https://github.com/tumashu/pyim][Emacs PYIM]] for inspiration, but since cl-pyim haven't use any code
+from PYIM, it can use different licence.
+
+感谢 [[https://github.com/tumashu/pyim][Emacs PYIM]] 给该项目以激励和启发。但由于 cl-pyim 并未使用任何来自 PYIM 的代
+码，该项目可以使用和 PYIM 不同的协议。
+
+** Author
+
++ Rosario S.E. (rosa@rosa.ink)
+
+** Copyright
+
+Copyright (c) 2022 Rosario S.E. (rosa@rosa.ink)
+
+** License
+
+Licensed under the LGPL-2 License.
